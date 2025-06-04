@@ -1,0 +1,8 @@
+#cardcont{
+    display: flex;
+
+    flex-wrap: wrap;
+    padding: 20px;
+    justify-content: space-around;
+    
+}
